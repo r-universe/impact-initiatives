@@ -1,10 +1,10 @@
 {
-  "id": 134346918,
-  "created_at": "2026-05-21T13:52:33.000Z",
+  "id": 134429929,
+  "created_at": "2026-05-21T19:32:52.000Z",
   "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["idem", "universe"]
+  "repositories": ["idem", "impact-initiatives.r-universe.dev"]
 }

@@ -2,6 +2,15 @@
 	path = .registry
 	url = https://github.com/impact-initiatives/impact-initiatives.r-universe.dev
 	branch = HEAD
+[submodule "analysistools"]
+	path = analysistools
+	url = https://github.com/impact-initiatives/analysistools
+[submodule "cleaningtools"]
+	path = cleaningtools
+	url = https://github.com/impact-initiatives/cleaningtools
 [submodule "idem"]
 	path = idem
 	url = https://github.com/impact-initiatives/idem
+[submodule "impactR.utils"]
+	path = impactR.utils
+	url = https://github.com/impact-initiatives/impactR.utils
